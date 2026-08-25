@@ -1,0 +1,10 @@
+body{
+    font-family: calibri;
+}
+header {
+    background-image: url("1.png");
+    width: 100%;
+    height: 130px;
+    padding:10px;
+    text-align: center;
+}
